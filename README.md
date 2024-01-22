@@ -22,7 +22,7 @@ Celui-ci permettra de choisir le pays à cibler dès que le bailleur de fonds au
 #### Les indicateurs relatifs aux 3 domaines d'expertises sont libre de choix.
 
 
-### Objectif du Projet 8 : 
+### Objectif Projet 8 : 
 
 - Analyser un besoin client pour formuler des questions analytiques;
   
